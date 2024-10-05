@@ -1,0 +1,31 @@
+.prev-btn{
+    color: white;
+    background-color:red; 
+    font-size:1rem;
+    border-radius:10px; 
+    margin:20px; 
+    cursor:pointer
+}
+.prev-btn:hover{
+    background-color: hsl(10,90%,40%);
+}
+
+.next-btn{
+    color: white;
+    background-color:green;
+    font-size: 1rem;
+    border-radius: 10px;
+    margin: 20px; 
+    cursor: pointer;
+}
+.next-btn:hover{
+    background-color: hsl(115, 100%, 30%);
+
+}
+ 
+.pagination {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
