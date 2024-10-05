@@ -1,7 +1,9 @@
-*Product Dashboard
+*Product Dashboard 
+
+Description:
 This project is a Product Dashboard built with React, which allows users to view a list of products, filter them by categories, search by product name, and sort them by price. It is responsive across all devices and includes pagination and error handling for API failures.
 
-*Key Features
+*Key Features:
 *Product Listing: Displays a list of products with details such as name, price, description, and category, fetched from a mock API.
 *Filtering and Search: Users can filter products by category and search products by name.
 *Product Details: Clicking on a product navigates to a Product Details page with more detailed information.
