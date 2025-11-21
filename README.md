@@ -1,10 +1,11 @@
-# Front-End Project:-
+# E-Commerce Front-End Project(React JS)
 
 ## PROJECT NAME:- "Product Dashboard" 
 
 ### Project Description:
 
-This project is a Product Dashboard built with React, which allows users to view a list of products, filter them by categories, search by product name, and sort them by price. It is responsive across all devices and includes pagination and error handling for API failures.
+This project is a Product Dashboard built with React, which allows users to view a list of products,filter them by categories,
+search by product name and sort them by price. It is responsive across all devices and includes pagination and error handling for API failures.
 
 ### Key Features:
 
